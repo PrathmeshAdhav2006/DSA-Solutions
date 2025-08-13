@@ -1,5 +1,3 @@
-package GFG.Arrays;
-
 /*
 Approach:
 - Iterate through the array elements.
