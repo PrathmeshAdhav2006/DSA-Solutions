@@ -1,5 +1,3 @@
-
-
 /*
 Approach:
 - Iterate through the array elements.
